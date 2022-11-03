@@ -26,3 +26,11 @@ footer {
     font-style: italic;
 
 }
+
+@media (max-width: 768px) {
+    section {
+        width: fit-content;
+        margin: 15px 15px;
+    }
+        
+    }
